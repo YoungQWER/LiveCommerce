@@ -19,12 +19,23 @@
 ## 🔧 기술 스택
 - API : `카카오페이 API`
 - Language : `Java(11)` `JavaScript(3.22)`
-- Library & Framework : `Spring(5.3.23)` `Junit(4.12)` `Servlet(4.0.1)` `Spring Security` '' ''
+- Library & Framework : `Spring(5.3.23)` `Junit(4.12)` `Servlet(4.0.1)` `Spring Security` `websocket(5.2.7)`
 - Database : `MySQL(8.0.35)`
 - Target : `Web Browser`
 - Tool : `SpringSource Tool Suite (STS) 3.9.18.RELEASE`
 - Infra : `Linux(Ubuntu)` `EC2`
 - Etc : `Git`
+
+## 👾 프로젝트 설계, 구현 📂 PPT 📂 (ERD, USECASE)
+
+<details><summary>프로젝트 설계, 구현, PPT</summary>   
+<div align="center">   
+
+![alt text](image.png)
+
+
+
+
 
 
 
