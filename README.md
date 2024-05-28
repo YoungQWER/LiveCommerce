@@ -31,7 +31,7 @@
 <details><summary>프로젝트 설계, 구현, PPT</summary>   
 <div align="center">   
 
-|![1](image.png)| |![2](image-1.png)|
+| **![1](image.png)|** | **![2](image-1.png)** |
 | :------: |  :------: |
 |![3](image-2.png)| |![4](image-3.png)| || || || || || || |||| || || || || || |||| || || || || || ||
 
