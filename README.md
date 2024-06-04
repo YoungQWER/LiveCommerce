@@ -33,7 +33,7 @@
 
 | **![1](image.png)|** | **![2](image-1.png)** |
 | :------: |  :------: |
-|![3](image-2.png)| |![4](image-3.png)| || || || || || || |||| || || || || || |||| || || || || || ||
+|![3](image-2.png)| |![4](image-3.png)| |![alt text](image-4.png)| |![alt text](image-5.png)| |![alt text](image-6.png)| |![alt text](image-7.png)| |![alt text](image-8.png)| |![alt text](image-9.png)| |![alt text](image-10.png)| |![alt text](image-11.png)| |![alt text](image-12.png)| || || || || |||| || || || || || ||
 
 </div>            
 </details>
