@@ -1,4 +1,4 @@
-<h1  align='center'>👕스프링 의류 쇼핑몰 프로젝트</h1>
+<h1  align='center'>👕라이브 커머스 프로젝트</h1>
 
 ## 목차
 - [개요](https://github.com/YoungQWER/LiveCommerce#-개요)
