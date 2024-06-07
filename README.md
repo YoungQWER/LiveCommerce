@@ -19,7 +19,7 @@
 ## 🔧 기술 스택
 - API : `카카오페이 API`
 - Language : `Java(11)` `JavaScript(3.22)`
-- Library & Framework : `Spring(5.3.23)` `Junit(4.12)` `Servlet(4.0.1)` `Spring Security` `websocket(5.2.7)`
+- Library & Framework : `Spring(5.3.23)` `Junit(4.12)` `Servlet(4.0.1)` `Spring Security` `websocket(5.2.7)` `JSP(2.5)`
 - Database : `MySQL(8.0.35)`
 - Target : `Web Browser`
 - Tool : `SpringSource Tool Suite (STS) 3.9.18.RELEASE`
