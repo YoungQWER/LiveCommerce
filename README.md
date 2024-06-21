@@ -39,6 +39,7 @@
 | :------: |  :------: |
 | **![3](https://github.com/YoungQWER/LiveCommerce/assets/157094828/00e75f3e-1a45-4881-9af3-d761346175c1)** |
 | **![4](https://github.com/YoungQWER/LiveCommerce/assets/157094828/a4ac30d7-8a50-4f57-b7e9-4f8de0babc28)** |
+| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/98d67baf-a9dc-4572-9225-5a0df5f86895)** |
 | **![5](https://github.com/YoungQWER/LiveCommerce/assets/157094828/066c8938-1873-4493-a97e-9fe546174ff9)** |
 | **![6](https://github.com/YoungQWER/LiveCommerce/assets/157094828/59141d23-f40b-4f3e-b49e-6709673de680)** |
 | **![7](https://github.com/YoungQWER/LiveCommerce/assets/157094828/80f5da1c-d693-4da6-883c-f3a0cec5afbd)** |
@@ -64,21 +65,18 @@
 ## 💻 핵심 기능
 
 
+
 #### 상품
-- 라이브 커머스 상품정보 DB 저장
-- 상품 검색
-- 카테고리
+- 
 
 #### 유저
-- 실시간 채팅
-- 마이 페이지
-- 유저 정보 수정
+- 
 
 #### 장바구니
 - 
 
 #### 주문
-- KakaoPayApI 이용한 결제
+- 
 
 ## 🎇 주요기능 실행화면
 
