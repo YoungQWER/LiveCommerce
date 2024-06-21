@@ -34,29 +34,29 @@
 <details><summary>프로젝트 설계, 구현, PPT 눌러서 확인</summary>   
 <div align="center">   
 
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/9f6401a4-513b-4c22-911a-3a8d28542624)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/8ff0b5bc-dc4b-4864-b073-b05e3e001317)** |
+| **![1](https://github.com/YoungQWER/LiveCommerce/assets/157094828/9f6401a4-513b-4c22-911a-3a8d28542624)** |
+| **![2](https://github.com/YoungQWER/LiveCommerce/assets/157094828/8ff0b5bc-dc4b-4864-b073-b05e3e001317)** |
 | :------: |  :------: |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/00e75f3e-1a45-4881-9af3-d761346175c1)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/a4ac30d7-8a50-4f57-b7e9-4f8de0babc28)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/066c8938-1873-4493-a97e-9fe546174ff9)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/59141d23-f40b-4f3e-b49e-6709673de680)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/80f5da1c-d693-4da6-883c-f3a0cec5afbd)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/5ce640bf-24ec-4956-8602-18ce98e36506)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/5325ca18-0479-4100-9314-e540b9659641)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/367d32a0-ce89-4992-ab42-e8fd1e204492)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/3838dc5b-f5a7-45e0-a6c6-638153a973ee)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/efcacf9c-024a-4b3f-b90a-f5e67546e098)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/38978333-1afa-4b3b-ae77-c983f0dbae2a)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/bdaf929a-4838-495d-bfcf-2e68cec9306c)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/fe3574c9-0b8a-4d86-8fe5-99ae093a77fc)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/d78b24c2-a9a2-41cd-9a9b-17c9efbe5560)** | 
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/1b6d772c-3678-4f64-8594-cbe55db9d04a)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/1daca093-b435-48f5-8066-e85409a77902)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/e77f9e03-9d13-4371-ab35-c17c5b821a65)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/de07feb9-0f61-4325-b484-0d9ce5115dc2)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/43444f54-07f6-4b9b-95fe-9930e264c66c)** |
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/96b28b8b-7cb6-4a4e-9690-2eb517d8d676)** |
+| **![3](https://github.com/YoungQWER/LiveCommerce/assets/157094828/00e75f3e-1a45-4881-9af3-d761346175c1)** |
+| **![4](https://github.com/YoungQWER/LiveCommerce/assets/157094828/a4ac30d7-8a50-4f57-b7e9-4f8de0babc28)** |
+| **![5](https://github.com/YoungQWER/LiveCommerce/assets/157094828/066c8938-1873-4493-a97e-9fe546174ff9)** |
+| **![6](https://github.com/YoungQWER/LiveCommerce/assets/157094828/59141d23-f40b-4f3e-b49e-6709673de680)** |
+| **![7](https://github.com/YoungQWER/LiveCommerce/assets/157094828/80f5da1c-d693-4da6-883c-f3a0cec5afbd)** |
+| **![8](https://github.com/YoungQWER/LiveCommerce/assets/157094828/5ce640bf-24ec-4956-8602-18ce98e36506)** |
+| **![9](https://github.com/YoungQWER/LiveCommerce/assets/157094828/5325ca18-0479-4100-9314-e540b9659641)** |
+| **![10](https://github.com/YoungQWER/LiveCommerce/assets/157094828/367d32a0-ce89-4992-ab42-e8fd1e204492)** |
+| **![11](https://github.com/YoungQWER/LiveCommerce/assets/157094828/3838dc5b-f5a7-45e0-a6c6-638153a973ee)** |
+| **![12](https://github.com/YoungQWER/LiveCommerce/assets/157094828/efcacf9c-024a-4b3f-b90a-f5e67546e098)** |
+| **![13](https://github.com/YoungQWER/LiveCommerce/assets/157094828/38978333-1afa-4b3b-ae77-c983f0dbae2a)** |
+| **![14](https://github.com/YoungQWER/LiveCommerce/assets/157094828/bdaf929a-4838-495d-bfcf-2e68cec9306c)** |
+| **![15](https://github.com/YoungQWER/LiveCommerce/assets/157094828/fe3574c9-0b8a-4d86-8fe5-99ae093a77fc)** |
+| **![16](https://github.com/YoungQWER/LiveCommerce/assets/157094828/d78b24c2-a9a2-41cd-9a9b-17c9efbe5560)** | 
+| **![17](https://github.com/YoungQWER/LiveCommerce/assets/157094828/1b6d772c-3678-4f64-8594-cbe55db9d04a)** |
+| **![18](https://github.com/YoungQWER/LiveCommerce/assets/157094828/1daca093-b435-48f5-8066-e85409a77902)** |
+| **![19](https://github.com/YoungQWER/LiveCommerce/assets/157094828/e77f9e03-9d13-4371-ab35-c17c5b821a65)** |
+| **![20](https://github.com/YoungQWER/LiveCommerce/assets/157094828/de07feb9-0f61-4325-b484-0d9ce5115dc2)** |
+| **![21](https://github.com/YoungQWER/LiveCommerce/assets/157094828/43444f54-07f6-4b9b-95fe-9930e264c66c)** |
+| **![22](https://github.com/YoungQWER/LiveCommerce/assets/157094828/96b28b8b-7cb6-4a4e-9690-2eb517d8d676)** |
 
 </div>            
 </details>
