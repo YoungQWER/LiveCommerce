@@ -36,6 +36,7 @@
 
 | **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/9f6401a4-513b-4c22-911a-3a8d28542624)** |
 | **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/8ff0b5bc-dc4b-4864-b073-b05e3e001317)** |
+| :------: |  :------: |
 | **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/00e75f3e-1a45-4881-9af3-d761346175c1)** |
 | **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/a4ac30d7-8a50-4f57-b7e9-4f8de0babc28)** |
 | **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/066c8938-1873-4493-a97e-9fe546174ff9)** |
