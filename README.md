@@ -1,6 +1,8 @@
 <h1 align='center'> <img src='https://cdn-icons-png.flaticon.com/512/5208/5208370.png' style='width: 300px; height: 200px;'>&nbsp;</h1>
 <h1  align='center'>👕라이브 커머스 프로젝트</h1>
 <div align='center'>
+
+
 ## 목차
 - [개요](https://github.com/YoungQWER/LiveCommerce#-개요)
 - [기술 스택](https://github.com/YoungQWER/LiveCommerce#-기술-스택)
@@ -32,7 +34,7 @@
 <details><summary>프로젝트 설계, 구현, PPT 눌러서 확인</summary>   
 <div align="center">   
 
-| **![1](./image/image.png)|** | **![2](./image/image-1.png)** |
+| **![1](/image/image.png)|** | **![2](/image/image-1.png)** |
 | :------: |  :------: |
 | ![3](./image/image-2.png)| | ![4](./image/image-3.png) | | ![5](./image/image-4.png) | | ![6](./image/image-5.png) | | ![7](./image/image-6.png) | | ![8](./image/image-7.png) | | ![9](./image/image-8.png) | | ![10](./image/image-9.png) | | ![11](./image/image-10.png) | | ![12](./image/image-11.png) | | ![13](./image/image-12.png) | | ![14](./image/image-13.png) | | ![15](./image/image-14.png) | | ![16](./image/image-15.png) | | ![17](./image/imvage-16.png) | | ![18](./image/image-17.png) | | ![19](./image/image-18.png) | | ![20](./image/image-19.png) | | ![21](./image/image-20.png) | | ![22](./image/image-21.png) |
 
