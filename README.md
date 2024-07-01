@@ -5,11 +5,11 @@
 
 ## 목차
 - [개요](https://github.com/YoungQWER/LiveCommerce#-개요)
-- [기술 스택](https://github.com/YoungQWER/LiveCommerce#-기술-스택)
-- [프로젝트 설계](https://github.com/YoungQWER/LiveCommerce#-프로젝트-설계)
-- [핵심 기능](https://github.com/YoungQWER/LiveCommerce#-핵심-기능)
-- [주요기능 실행화면](https://github.com/YoungQWER/LiveCommerce#-주요기능-실행화면)
-- [개선사항](https://github.com/YoungQWER/LiveCommerce#--개선사항)
+- [기술 스택](https://github.com/YoungQWER/LiveCommerce#-기술 스택)
+- [프로젝트 설계](https://github.com/YoungQWER/LiveCommerce#-프로젝트 설계)
+- [핵심 기능](https://github.com/YoungQWER/LiveCommerce#-핵심 기능)
+- [주요기능 실행화면](https://github.com/YoungQWER/LiveCommerce#-주요기능 실행화면)
+- [개선사항](https://github.com/YoungQWER/LiveCommerce#-개선사항)
   
 
 
