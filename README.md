@@ -39,7 +39,6 @@
 | :------: |  :------: |
 | **![3](https://github.com/YoungQWER/LiveCommerce/assets/157094828/00e75f3e-1a45-4881-9af3-d761346175c1)** |
 | **![4](https://github.com/YoungQWER/LiveCommerce/assets/157094828/a4ac30d7-8a50-4f57-b7e9-4f8de0babc28)** |
-<<<<<<< HEAD
 | **![5](https://github.com/YoungQWER/LiveCommerce/assets/157094828/98d67baf-a9dc-4572-9225-5a0df5f86895)** |
 | **![6](https://github.com/YoungQWER/LiveCommerce/assets/157094828/066c8938-1873-4493-a97e-9fe546174ff9)** |
 | **![7](https://github.com/YoungQWER/LiveCommerce/assets/157094828/59141d23-f40b-4f3e-b49e-6709673de680)** |
@@ -59,27 +58,6 @@
 | **![21](https://github.com/YoungQWER/LiveCommerce/assets/157094828/de07feb9-0f61-4325-b484-0d9ce5115dc2)** |
 | **![22](https://github.com/YoungQWER/LiveCommerce/assets/157094828/43444f54-07f6-4b9b-95fe-9930e264c66c)** |
 | **![23](https://github.com/YoungQWER/LiveCommerce/assets/157094828/96b28b8b-7cb6-4a4e-9690-2eb517d8d676)** |
-=======
-| **![image](https://github.com/YoungQWER/LiveCommerce/assets/157094828/98d67baf-a9dc-4572-9225-5a0df5f86895)** |
-| **![5](https://github.com/YoungQWER/LiveCommerce/assets/157094828/066c8938-1873-4493-a97e-9fe546174ff9)** |
-| **![6](https://github.com/YoungQWER/LiveCommerce/assets/157094828/59141d23-f40b-4f3e-b49e-6709673de680)** |
-| **![7](https://github.com/YoungQWER/LiveCommerce/assets/157094828/80f5da1c-d693-4da6-883c-f3a0cec5afbd)** |
-| **![8](https://github.com/YoungQWER/LiveCommerce/assets/157094828/5ce640bf-24ec-4956-8602-18ce98e36506)** |
-| **![9](https://github.com/YoungQWER/LiveCommerce/assets/157094828/5325ca18-0479-4100-9314-e540b9659641)** |
-| **![10](https://github.com/YoungQWER/LiveCommerce/assets/157094828/367d32a0-ce89-4992-ab42-e8fd1e204492)** |
-| **![11](https://github.com/YoungQWER/LiveCommerce/assets/157094828/3838dc5b-f5a7-45e0-a6c6-638153a973ee)** |
-| **![12](https://github.com/YoungQWER/LiveCommerce/assets/157094828/efcacf9c-024a-4b3f-b90a-f5e67546e098)** |
-| **![13](https://github.com/YoungQWER/LiveCommerce/assets/157094828/38978333-1afa-4b3b-ae77-c983f0dbae2a)** |
-| **![14](https://github.com/YoungQWER/LiveCommerce/assets/157094828/bdaf929a-4838-495d-bfcf-2e68cec9306c)** |
-| **![15](https://github.com/YoungQWER/LiveCommerce/assets/157094828/fe3574c9-0b8a-4d86-8fe5-99ae093a77fc)** |
-| **![16](https://github.com/YoungQWER/LiveCommerce/assets/157094828/d78b24c2-a9a2-41cd-9a9b-17c9efbe5560)** | 
-| **![17](https://github.com/YoungQWER/LiveCommerce/assets/157094828/1b6d772c-3678-4f64-8594-cbe55db9d04a)** |
-| **![18](https://github.com/YoungQWER/LiveCommerce/assets/157094828/1daca093-b435-48f5-8066-e85409a77902)** |
-| **![19](https://github.com/YoungQWER/LiveCommerce/assets/157094828/e77f9e03-9d13-4371-ab35-c17c5b821a65)** |
-| **![20](https://github.com/YoungQWER/LiveCommerce/assets/157094828/de07feb9-0f61-4325-b484-0d9ce5115dc2)** |
-| **![21](https://github.com/YoungQWER/LiveCommerce/assets/157094828/43444f54-07f6-4b9b-95fe-9930e264c66c)** |
-| **![22](https://github.com/YoungQWER/LiveCommerce/assets/157094828/96b28b8b-7cb6-4a4e-9690-2eb517d8d676)** |
->>>>>>> 5d433b6cfa53de5a0c2bf1dd917c578309b3230b
 
 </div>            
 </details>
@@ -89,16 +67,27 @@
 
 
 #### 상품
-- 
+- 상품 정보 DB 저장
+- 상품 검색
+- 카테고리 기능
+- 관련 상품 추천
 
 #### 유저
-- 
+- 로그인 및 회원가입
+- 비밀번호 암호화 처리
+- 마이 페이지
+- 개인 정보 수정
+- 라이브 채팅
 
 #### 장바구니
-- 
+- 상품 장바구니에 담기 및 제거
+- 실시간 수량 수정 후 결제
+- 같은 상품, 같은 사이즈 장바구니 담을 시 수량 증가
 
 #### 주문
-- 
+- 장바구니 상품 주문
+- KakaoPayAPI 이용한 결제
+- 유저만 구매가능
 
 ## 🎇 주요기능 실행화면
 
@@ -117,5 +106,5 @@
 
 ## 🌄 개선사항
 - 관리자 CRUD 추가
-- 장바구니 구매 후 삭제
+- 장바구니 구매 후 자동삭제
  
